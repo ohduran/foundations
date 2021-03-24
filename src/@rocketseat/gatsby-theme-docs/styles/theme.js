@@ -2,7 +2,7 @@ export default {
     colors: {
       primary: '#d8dee9',
       background: '#2e3440',
-      shape: `#bf616a`,
+      shape: `#81a1c1`,
       title: `#ebcb8b`,
       text: `#eceff4`,
       components: {

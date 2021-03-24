@@ -6,7 +6,7 @@ module.exports = {
     siteDescription: `Guidelines to keep the Studio brand consistent.`,
     siteUrl: `https://foundations.alvaroduran.com`,
     siteAuthor: `Alvaro Duran`,
-    siteImage: `/banner.png`,
+    siteImage: `/favicon.png`,
     siteLanguage: `en`,
     themeColor: `#eceff4`,
     basePath: `/`,
