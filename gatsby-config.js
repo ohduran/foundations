@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     siteTitle: `Foundations`,
-    defaultTitle: `Studio Foundations`,
+    defaultTitle: `Foundations by Alvaro Duran`,
     siteTitleShort: `Foundations`,
     siteDescription: `Guidelines to keep the Studio brand consistent.`,
     siteUrl: `https://foundations.alvaroduran.com`,
@@ -25,7 +25,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Rocketseat Gatsby Themes`,
+        name: `Foundations by Alvaro Duran`,
         short_name: `RS Gatsby Themes`,
         start_url: `/`,
         background_color: `#2e3440`,
