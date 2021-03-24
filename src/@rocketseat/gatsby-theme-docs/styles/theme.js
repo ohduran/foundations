@@ -2,13 +2,13 @@ const Theme = {
   colors: {
     primary: "#d8dee9",
     background: "#2e3440",
-    shape: `#81a1c1`,
+    shape: `#4c566a`,
     title: `#ebcb8b`,
     text: `#eceff4`,
     components: {
       blockquote: {
-        background: `#e5e9f0`,
-        text: `#3b4252`,
+        background: `#eceff4`,
+        text: `#2e3440`,
       },
     },
   },
